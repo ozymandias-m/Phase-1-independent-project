@@ -1,0 +1,1 @@
+fetch('http://calapi.inadiutorium.cz/')
